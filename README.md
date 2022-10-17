@@ -26,10 +26,12 @@ mod 2 challenge
  
  I attempted this question in the challenge the same way i looked at it in the practice work. I ran into an issue with the tickerVolume. Asked the class about thier thoughts. 
     
+ With data sets like the stock market having code that allows for you to change a few inputs is helpful. When just dealing with a year or two it was simplier to write the code. Yet, that code wouldn't work for the whole stock market. The changes, eventhough I had some challegnes, made sense for the larger data. Being able to just add a new ticker and or a year is the best way to write code in VBA.
+ VBA makes using Excel more applicable than I ha initally thought possible. I can see how this skill set is applicable for jobs. Understanding VBA makes unitlizing Excel easier and allows one to do more things. 
 ### Analysis of Outcomes of Stocks
 
 ### Challenges and Difficulties Encountered
-
+  Loop and conditional is something that i struggled with. I understand in theory how they work, I just have a hard time applying it. 
 ## Results
 
 - What are the advantages or disadvantages of refactoriung code?
