@@ -30,7 +30,7 @@ mod 2 challenge
 ### Challenges and Difficulties Encountered
   Loop and conditional is something that i struggled with. I understand in theory how they work, I just have a hard time applying it. 
 ## Results
-
+  Was not able to finish the chalenge. Got stuck and therefor was not able to get results. It seems though that refactoring the code from Module 2 would make the program run faster. Leaving the code how it was oringally written would take much longer to proccess the whole stock market. I assume that the time for the code to run after it was refactored was significantly faster. 
 - What are the advantages or disadvantages of refactoriung code?
     If it aint broke, don't fix it. That was how I was beginning to feel. 
 
